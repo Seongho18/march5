@@ -2,10 +2,6 @@ apple
 
 banana
 
-<<<<<<< HEAD
-car
-=======
 cell phone
 
 doctor
->>>>>>> mybranch
